@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AKAZA-MD&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20WhatsApp%20Bot%20by%20GladdyKing%20⚡&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=AKAZA-MD&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=⚡%20The%20Demonic%20WhatsApp%20Bot%20by%20GladdyKing%20⚡&descAlignY=62&descSize=17" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=🔥+AKAZA-MD+WhatsApp+Bot;⚡+100%2B+Powerful+Commands;🤖+AI+%7C+Admin+%7C+Media+%7C+Fun;👑+Built+by+GladdyKing;🚀+Deploy+in+Minutes+on+Koyeb" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=FF4500&center=true&vCenter=true&repeat=true&width=700&lines=🔥+AKAZA-MD+—+WhatsApp+Bot;👑+Built+by+GladdyKing;⚡+100%2B+Powerful+Commands;🤖+AI+%7C+Admin+%7C+Media+%7C+Fun+%7C+Anime;🚀+Deploy+in+Minutes+on+Katabump;😈+You+Dare+Summon+Me%3F" alt="Typing SVG" />
 
 <br/>
 
@@ -33,25 +31,25 @@
 <br/><br/>
 
 <!-- VISITOR COUNTER -->
-<img src="https://profile-counter.glitch.me/AKAZA-MD/count.svg" alt="Visitor Counter"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGladdyKing%2FAKAZA-MD&count_bg=%23FF4500&title_bg=%231a1a2e&icon=fire&icon_color=%23FF4500&title=Visitors&edge_flat=false" alt="Visitor Counter"/>
 
 <br/><br/>
 
 <!-- ACTION BUTTONS -->
 <a href="https://github.com/GladdyKing/AKAZA-MD/fork">
-  <img src="https://img.shields.io/badge/🍴%20FORK%20THIS%20BOT-FF4500?style=for-the-badge&logoColor=white" height="38" alt="Fork"/>
+  <img src="https://img.shields.io/badge/🍴%20FORK%20THIS%20BOT-FF4500?style=for-the-badge&logoColor=white" height="40" alt="Fork"/>
 </a>
 &nbsp;
 <a href="https://github.com/GladdyKing/AKAZA-MD/archive/refs/heads/main.zip">
-  <img src="https://img.shields.io/badge/📥%20DOWNLOAD%20BOT%20FILES-FF6B35?style=for-the-badge&logoColor=white" height="38" alt="Download"/>
+  <img src="https://img.shields.io/badge/📥%20DOWNLOAD%20BOT%20FILES-FF6B35?style=for-the-badge&logoColor=white" height="40" alt="Download"/>
 </a>
 &nbsp;
 <a href="https://rl.katabump.eu/6cdf5d">
-  <img src="https://img.shields.io/badge/🚀%20CREATE%20KOYEB%20ACCOUNT-6C5CE7?style=for-the-badge&logoColor=white" height="38" alt="Koyeb"/>
+  <img src="https://img.shields.io/badge/🚀%20CREATE%20KATABUMP%20ACCOUNT-6C5CE7?style=for-the-badge&logoColor=white" height="40" alt="Katabump"/>
 </a>
 &nbsp;
 <a href="https://whatsapp.com/channel/0029VbAhyS28aKvMWmEiHt1M">
-  <img src="https://img.shields.io/badge/📢%20JOIN%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="38" alt="Channel"/>
+  <img src="https://img.shields.io/badge/📢%20JOIN%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="Channel"/>
 </a>
 
 </div>
@@ -62,22 +60,20 @@
 
 ## 🔥 What is AKAZA-MD?
 
-**AKAZA-MD** is a powerful, feature-rich WhatsApp bot built on top of the **Baileys/WhiskeySocket** framework with a custom **Akaza plugin architecture**. It's designed to be clean, fast, and easy to extend — making it the perfect base for your own WhatsApp bot.
+**AKAZA-MD** is a powerful, feature-rich WhatsApp bot built on the **Baileys/WhiskeySocket** framework with a custom **Akaza plugin architecture**. Designed to be clean, fast, and deadly — the perfect base for your own WhatsApp bot.
 
 > *"You dare summon me? Then face the consequences..."* 😈
 
 Packed with **100+ commands** spanning AI chat, group management, media downloads, image tools, fun games, anti-spam protection, and much more — AKAZA-MD is the ultimate WhatsApp automation companion.
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
 ## ✨ Features
 
 <div align="center">
 
-|  Category | Commands | Description |
-|-----------|----------|-------------|
+| Category | Commands | Description |
+|----------|----------|-------------|
 | 🤖 **AI & Chat** | ChatGPT, Gemini, Blackbox | AI-powered conversations & responses |
 | 🛡️ **Admin Tools** | Kick, Promote, Demote, Warn | Full group management suite |
 | 🎬 **Media** | TikTok, YouTube, Spotify, IG | Download audio & video from anywhere |
@@ -95,9 +91,9 @@ Packed with **100+ commands** spanning AI chat, group management, media download
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🚀 Deploy to Koyeb — Step by Step
+## 🚀 Deploy to Katabump — Step by Step
 
-> AKAZA-MD is designed for **one-click deployment on Koyeb** (free tier supported). Follow these steps carefully:
+> AKAZA-MD is designed for **easy deployment on Katabump** (free tier supported). Follow these steps carefully:
 
 ---
 
@@ -115,52 +111,52 @@ Download the bot files as a `.zip` from the button above (or fork & clone the re
 
 ---
 
-### 🌐 Step 2 — Create a Koyeb Account
+### 🌐 Step 2 — Create a Katabump Account
 
 <div align="center">
 
 <a href="https://rl.katabump.eu/6cdf5d">
-  <img src="https://img.shields.io/badge/🚀%20Sign%20Up%20on%20Koyeb-6C5CE7?style=for-the-badge&logoColor=white" height="42"/>
+  <img src="https://img.shields.io/badge/🚀%20Sign%20Up%20on%20Katabump-6C5CE7?style=for-the-badge&logoColor=white" height="42"/>
 </a>
 
 </div>
 
-Click the button above to create your free Koyeb account. Koyeb gives you a **free tier** to host your bot 24/7.
+Click the button above to create your free Katabump account. Katabump gives you a **free tier** to keep your bot running 24/7.
 
 ---
 
 ### 📤 Step 3 — Upload Bot Files
 
-Once logged into Koyeb:
+Once logged into Katabump:
 1. Create a **new service** → choose **Web Service**
 2. Select **Upload files** as your deployment source
 3. Upload the `AKAZA-MD` zip/folder you downloaded in Step 1
 
 ---
 
-### ✏️ Step 4 — Set Your Owner Number
+### ✏️ Step 4 — Change Your Owner Number
 
-Before saving, open **`settings.js`** (or set environment variables) and change:
+Open **`settings.js`** and update:
 
 ```js
-ownerNumber: "YOUR_NUMBER_HERE",   // e.g. "263775953409"
+ownerNumber: "YOUR_NUMBER_HERE",   // with country code, no +
 ownerName:   "Your Name",
 ```
 
 | Variable | Description |
 |----------|-------------|
-| `OWNER_NUMBER` | Your WhatsApp number (with country code, no `+`) |
-| `OWNER_NAME` | Your name |
-| `BOT_NAME` | Name of your bot |
-| `PREFIX` | Command prefix (default: `.`) |
+| `ownerNumber` | Your WhatsApp number (country code, no `+`) |
+| `ownerName` | Your name |
+| `botName` | Name of your bot |
+| `prefix` | Command prefix (default: `.`) |
 
 ---
 
 ### ▶️ Step 5 — Save & Run the Server
 
-Hit **Save** and **Deploy**. Koyeb will install dependencies and start your bot automatically.
+Hit **Save** and **Deploy**. Katabump will install dependencies and start the bot automatically.
 
-> 💡 **Pairing Code** — When the server starts, your **pairing code will appear in the Koyeb terminal/logs**. Open WhatsApp → **Linked Devices** → **Link with phone number** → Enter the code shown in the terminal.
+> 💡 **Pairing Code** — When the server boots, your **pairing code appears in the Katabump terminal/logs**. Open WhatsApp → **Linked Devices** → **Link with phone number** → Enter the code from the terminal.
 
 ```
 ╭──〔 AKAZA-MD 〕──────────────────────────────╮
@@ -174,116 +170,7 @@ Hit **Save** and **Deploy**. Koyeb will install dependencies and start your bot 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🧩 Plugin Development
-
-Drop a `.js` file in `plugins/` — **flat structure, no sub-folders needed:**
-
-```js
-import Akaza from "../lib/framework.js";
-
-Akaza.cmd({
-  on: "hello",
-  alias: ["hi"],
-  desc: "Say hello",
-  category: "general",
-  react: "👋",
-}, async (sock, m, ctx) => {
-  await ctx.reply(`👋 Hey ${ctx.pushName}!`);
-});
-```
-
-### 📋 `ctx` Reference
-
-| Property | Description |
-|----------|-------------|
-| `ctx.from` | Chat JID |
-| `ctx.sender` | Sender JID |
-| `ctx.isGroup` | Boolean |
-| `ctx.isOwner` | Boolean |
-| `ctx.body` | Full message text |
-| `ctx.text` | Text after command |
-| `ctx.args` | Array of args |
-| `ctx.quoted` | Quoted message object |
-| `ctx.pushName` | Sender display name |
-| `ctx.reply(text)` | Reply with text |
-| `ctx.react(emoji)` | React to message |
-| `ctx.sendImage(buf, caption)` | Send image |
-| `ctx.sendAudio(buf)` | Send audio |
-| `ctx.sendVideo(buf, caption)` | Send video |
-| `ctx.downloadQuoted()` | Download quoted media as buffer |
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 📂 Project Structure
-
-```
-AKAZA-MD/
-├── 📄 index.js           ← Main entry point
-├── ⚙️  settings.js        ← All config here (edit before deploy!)
-├── 🔁 config.js          ← Env variable overrides
-├── 📦 package.json
-│
-├── 📁 lib/
-│   ├── framework.js      ← Plugin loader & router (Akaza.cmd)
-│   ├── context.js        ← ctx builder
-│   ├── store.js          ← In-memory state (anti/auto/sessions)
-│   ├── session.js        ← SESSION_ID restore
-│   ├── border.js         ← Styled message borders
-│   └── converter.js      ← Media format converter
-│
-├── 📁 plugins/           ← All command files go here (FLAT)
-│   ├── menu.js           ← .menu .alive commands
-│   ├── anti.js           ← Anti-spam logic
-│   ├── x_admin.js        ← Group admin commands
-│   ├── x_ai.js           ← AI chat commands
-│   ├── x_downloaders.js  ← Media download commands
-│   └── ... (100+ more)
-│
-├── 📁 data/              ← Persistent JSON state
-│   ├── antiSettings.json
-│   └── autoSettings.json
-│
-└── 📁 session/           ← creds.json lives here (auto-generated)
-```
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## ⚙️ Configuration Reference
-
-```js
-// settings.js — Edit BEFORE you deploy
-export const settings = {
-  botName:     "AKAZA-MD",       // Bot display name
-  version:     "1.0.0",
-  prefix:      ".",              // Command prefix
-
-  ownerNumber: "YOUR_NUMBER",    // ← CHANGE THIS
-  ownerName:   "Your Name",      // ← CHANGE THIS
-
-  sessionId:   "",               // Leave blank — pairing code fills this
-
-  menuImage:   "https://...",    // URL for .menu image
-  aliveImage:  "https://...",    // URL for .alive image
-
-  newsletterJid: "",             // Set via .setnewsletter command
-
-  apis: {
-    keith:    "https://apis-keith.vercel.app",
-    dreaded:  "https://api.dreaded.site",
-    // ... more APIs
-  },
-};
-```
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🛡️ Anti-Spam Features
+## 🛡️ Anti-Spam System
 
 AKAZA-MD includes a full **per-group anti-spam system**:
 
@@ -303,22 +190,22 @@ AKAZA-MD includes a full **per-group anti-spam system**:
 
 <div align="center">
 
-## 👑 Credits
+## 👑 Credits & Socials
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Created+with+🔥+by+GladdyKing;Powered+by+Baileys+%2B+Akaza+Framework;Subscribe+%7C+Fork+%7C+Star+⭐" alt="Credits"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=800&color=FF4500&center=true&vCenter=true&repeat=true&width=560&lines=👑+Created+by+GladdyKing+(Davison+Gladson);🔥+Powered+by+Baileys+%2B+Akaza+Framework;📺+YouTube%3A+%40GLADDYTECH;⭐+Star+%26+Fork+to+support+the+project!" alt="Credits Typing"/>
 
 <br/>
 
 <a href="https://m.youtube.com/@GLADDYTECH">
-  <img src="https://img.shields.io/badge/YouTube-GLADDYTECH-FF0000?style=for-the-badge&logo=youtube&labelColor=1a1a2e" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-@GLADDYTECH-FF0000?style=for-the-badge&logo=youtube&labelColor=1a1a2e&logoColor=FF0000" alt="YouTube"/>
 </a>
 &nbsp;
 <a href="https://whatsapp.com/channel/0029VbAhyS28aKvMWmEiHt1M">
-  <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&labelColor=1a1a2e" alt="Channel"/>
+  <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&labelColor=1a1a2e&logoColor=25D366" alt="Channel"/>
 </a>
 &nbsp;
 <a href="https://github.com/GladdyKing">
-  <img src="https://img.shields.io/badge/GitHub-GladdyKing-181717?style=for-the-badge&logo=github&labelColor=1a1a2e" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-GladdyKing-ffffff?style=for-the-badge&logo=github&labelColor=1a1a2e" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -328,11 +215,11 @@ AKAZA-MD includes a full **per-group anti-spam system**:
 </a>
 &nbsp;
 <a href="https://github.com/GladdyKing/AKAZA-MD/fork">
-  <img src="https://img.shields.io/badge/🍴%20FORK%20&%20BUILD%20YOUR%20OWN-FF6B35?style=for-the-badge&logoColor=white" height="42"/>
+  <img src="https://img.shields.io/badge/🍴%20FORK%20%26%20BUILD%20YOUR%20OWN-FF6B35?style=for-the-badge&logoColor=white" height="42"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=AKAZA-MD%20©%202025%20GladdyKing&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=AKAZA-MD%20©%202025%20GladdyKing&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
